@@ -73,8 +73,6 @@ class MainFragment : Fragment() {
                                 Toast.LENGTH_SHORT
                             ).show()
                             progressHelper.dismissProgress()
-                            val modalBottomSheet = OtpFragment()
-                            modalBottomSheet.show(requireActivity().supportFragmentManager, OtpFragment.TAG)
                         }
                     },
                     requireContext()
