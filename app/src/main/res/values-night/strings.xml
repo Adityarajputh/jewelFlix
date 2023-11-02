@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done">Done</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="app_name">OtpActivity</string>
+    <string name="hello_blank_fragment">blank</string>
+    <string name="please_enter_your_otp">Please Enter Your OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+
+</resources>
